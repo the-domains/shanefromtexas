@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-01T19:41:55.766Z'
+datePublished: '2016-06-01T19:41:56.669Z'
 sourcePath: _posts/2016-06-01-membership.md
 isBasedOnUrl: 'http://www.hideawaytexas.net/about'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - 882-7021
 related: []
 author: []
-dateModified: '2016-06-01T19:41:55.542Z'
+dateModified: '2016-06-01T19:41:56.428Z'
 title: Membership
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: www.hideawaytexas.net
 description: "Encompassing almost 10 square miles, the Hide-A-Way Lake community was launched in 1967 and features over 1,600 homes, over 3,000 members arranged around 235 acres of lakes. Its residents include families who regard Hide-A-Way as a very attractive suburban community, retirees, and folks who love it's small community atmosphere."
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
