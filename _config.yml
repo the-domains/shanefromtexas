@@ -1,4 +1,3 @@
-layout_spectrum: 0.4097893191501498
 typography_spectrum: 0.2868688355665654
 color:
   brandStrength: 0.29291543271392584
@@ -11,4 +10,9 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.4097893191501498
+author:
+  name: Shane Stanton
+  email: stanton.shane@gmail.com
 name: ShaneFromTexas
+title: Enjoying Life In East Texas
